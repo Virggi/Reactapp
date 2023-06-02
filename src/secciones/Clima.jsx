@@ -45,6 +45,10 @@ const handleSumit = (e) => {
       <h1>Clima</h1>
       <SearchCountry handleSumit={handleSumit}/>
       <div className='containerClima'>
+    <div className="">
+      <h1>Clima</h1>
+      <SearchCountry handleSumit={handleSumit}/>
+      <div className='container'>
       <Cardclima data={data}/>
       </div>
     </div>
