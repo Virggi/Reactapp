@@ -6,7 +6,7 @@ const searchCountry = ({handleSumit}) => {
     <>
     <form action="" onSubmit={handleSumit}>
         <input className="imputClima" type="text" placeholder="Escribe tu ciudad"/>
-        <button className="buttoHome">Buscar</button>
+        <button className="buttonClima">Buscar</button>
     </form>
     </>
     )
