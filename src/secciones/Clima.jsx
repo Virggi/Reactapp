@@ -41,10 +41,10 @@ const handleSumit = (e) => {
     e.target.reset() 
 }
   return (
-    <div className="">
+    <div>
       <h1>Clima</h1>
       <SearchCountry handleSumit={handleSumit}/>
-      <div className='container'>
+      <div className='containerClima'>
       <Cardclima data={data}/>
       </div>
     </div>
