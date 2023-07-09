@@ -22,7 +22,7 @@ const Header = () => {
             <RiSunLine className="nav-icon" /> Clima
           </Nav.Link>
           <Nav.Link href="/Sobrenosotras">
-            <RiInformationLine className="nav-icon" /> Sobre Nostras
+            <RiInformationLine className="nav-icon" /> Sobre Nosotras
           </Nav.Link>
           <Nav.Link href="/contacto">
             <RiMailLine className="nav-icon" /> Contacto
